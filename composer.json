@@ -1,0 +1,17 @@
+{
+    "name": "bless-rng/php-json-rpc-server",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BlessRng\\PhpJsonRpc\\Server\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maks Vesnin",
+            "email": "maks@bless-rng.ru"
+        }
+    ],
+    "require": {}
+}
